@@ -43,13 +43,6 @@ This isn’t just another portfolio—it’s a **dynamic showcase** of my journe
 
 ---
 
-## 🚀 **How to Explore**  
-1. Clone the repo.  
-2. Open `index.html` in your favorite browser.  
-3. Navigate through the pages—**no server needed!**  
-
----
-
 ## 🔮 **Future Upgrades** (Coming Soon!)  
 - **Backend Blogging** – Store posts in a database.  
 - **Comments Section** – Let readers join the conversation.  
